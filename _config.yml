@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Hardware Software and Music"
 title_separator          : "-"
 name                     : "Binil Jacob"
 description              : "An amazing website."
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Binil Jacob"
-  avatar           : "bio-photo.jpg"
+  avatar           : "pic.jpg"
   bio              : "Entrepreneur and Inventoloper."
   location         : "Mumbai"
   email            :
